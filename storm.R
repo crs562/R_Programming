@@ -1,3 +1,8 @@
+# This file contain data clining from web base data about the "Extended Best Tracks" for North Atlantic are hurricane tracks that
+# include both the best estimate of the central location of each storm and also gives estimates of how far winds of certain speeds
+# extended from the storm's center in four quadrants of the storm (northeast, northwest, southeast, southwest) at each measurement
+# point.
+
 library(readr)
 library(dplyr)
 library(ggplot2)
